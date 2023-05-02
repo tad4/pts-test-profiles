@@ -21,9 +21,9 @@ The Phoronix Test Suite is the copyrighted © property of Michael Larabel and [P
 
 ### Test profiles
 Unless noted otherwise in a given test profile—e.g., within any test profile source code and/or license documentation included within any given test profile's directory tree—the test profiles are the copyrighted © property of Michael Larabel and Phoronix Media.
-- Unless noted otherwise in a given test profile—e.g.,
-   - within any test profile source code and/or
-   - license documentation included within any given test profile's directory tree
+- Unless noted otherwise within a test profile—e.g.,
+   - a disclaimer present in a test profile's source code and/or
+   - license documentation included within any given test profile's directory tree;
 - Test profiles are licensed under the terms of the Massachusetts Institute of Technology (MIT) license.
 
 # Motivation
