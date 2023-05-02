@@ -25,7 +25,7 @@ I've found the Phoronix Test Suite to be helpful. A few examples of PTS helpfuln
 - PTS allows me to easily compare performance across different CPUs and GPUs, and
 - PTS enables me to track performance-over-time for various applications and drivers I rely upon.
 
-As I've used PTS, I have found that I occasionally need to tweak test profiles for a specific machine, expand test profiles when I need to benchmark less popular CPU architectures, modify test profiles to support changes in the apps I'm benchmarking, and—on occasion—add new features for some test profiles I use. These modified test profiles are shared in the hope that they will be useful, but _without any warranty_; without even the implied warranty of _merchantability_ or _fitness for a particular purpose_. See the [warranty and disclaimer](#warranty-and-disclaimer) for more details.
+As I've used PTS, I have found that I occasionally need to tweak test profiles for a specific machine, expand test profiles when I need to benchmark less popular CPU architectures, modify test profiles to support changes in the apps I'm benchmarking, and—on occasion—add new features for some test profiles I use. These modified test profiles are shared in the hope that they will be useful, but _without any warranty_; without even the implied warranty of _merchantability_ or _fitness for a particular purpose_. See the complete [warranty](#warranty) disclaimer for more details.
 
 # Test Profile Modifications
 Modifications to test profiles are stored in branches, where each branch usually contains modifications for a single test case. Documentation about the changes made can be found in commit messages for a give branch, pull request descriptions and/or in this `readme.md` file.
