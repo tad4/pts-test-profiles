@@ -16,10 +16,15 @@ The test profiles (i.e., software) are provided "as is" and the author _disclaim
 
 ## Ownership
 ### Phoronix Test Suite
-The Phoronix Test Suite is the copyrighted © property of Michael Larabel and [Phoronix Media](http://www.phoronix-media.com/)—it is [licensed](https://github.com/phoronix-test-suite/phoronix-test-suite/blob/master/COPYING) under the terms of the GNU General Public License (GPL), version 3.
+The Phoronix Test Suite is the copyrighted © property of Michael Larabel and [Phoronix Media](http://www.phoronix-media.com/)
+- The Phoronix Test Suite is [licensed](https://github.com/phoronix-test-suite/phoronix-test-suite/blob/master/COPYING) under the terms of the GNU General Public License (GPL), version 3.
 
 ### Test profiles
-Unless noted otherwise in a given test profile—i.e., within any test profile source code and/or license documentation included within any given test profile's directory tree—the test profiles are the copyrighted © property of Michael Larabel and Phoronix Media. Test profiles are licensed under the terms of the Massachusetts Institute of Technology (MIT) license.
+Unless noted otherwise in a given test profile—e.g., within any test profile source code and/or license documentation included within any given test profile's directory tree—the test profiles are the copyrighted © property of Michael Larabel and Phoronix Media.
+- Unless noted otherwise in a given test profile—e.g.,
+   - within any test profile source code and/or
+   - license documentation included within any given test profile's directory tree
+- Test profiles are licensed under the terms of the Massachusetts Institute of Technology (MIT) license.
 
 # Motivation
 I've found the Phoronix Test Suite to be helpful. A few examples of PTS helpfulness for me are:
