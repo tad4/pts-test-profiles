@@ -2,17 +2,21 @@
 <!--Phoronix Test Suite v10.8.4-->
 <PhoronixTestSuite>
   <ResultsParser>
+    <!--             Percentiles:                                |  50th  |  75th  |  90th  |  99th      | 99.9th | Worst  | -->
     <OutputTemplate> PUSCH RB=25  Mod=QPSK   R=0.117 -   0.9 Mbps|   157.3|   156.5|   154.3|   #_RESULT_#   132.1|   132.1|</OutputTemplate>
     <LineHint>PUSCH</LineHint>
     <MultiMatch>GEOMETRIC_MEAN</MultiMatch>
     <ResultScale>Mbps</ResultScale>
     <TurnCharsToSpace>|</TurnCharsToSpace>
+    <ArgumentsDescription>PUSCH: 25 RB with QPSK</ArgumentsDescription>
   </ResultsParser>
   <ResultsParser>
-    <OutputTemplate> PDSCH BW=26  Mod=QPSK   R=0.117 -   0.9 Mbps|    55.3|    55.1|    54.5|    #_RESULT_#    50.0|    16.3|</OutputTemplate>
+    <!--             Percentiles:                                |  50th  |  75th  |  90th  |  99th       | 99.9th | Worst  | -->
+    <OutputTemplate> PDSCH BW=26  Mod=QPSK   R=0.aaa -   0.b Mbps|    cc.c|    dd.d|    ee.e|    #_RESULT_#    50.0|    16.3|</OutputTemplate>
     <LineHint>PDSCH</LineHint>
     <MultiMatch>GEOMETRIC_MEAN</MultiMatch>
     <ResultScale>Mbps</ResultScale>
     <TurnCharsToSpace>|</TurnCharsToSpace>
+    <ArgumentsDescription>PDSCH: 26 RB with QPSK</ArgumentsDescription>
   </ResultsParser>
 </PhoronixTestSuite>
