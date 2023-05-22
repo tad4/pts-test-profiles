@@ -16,7 +16,20 @@ As I've used PTS, I have found that I occasionally need to tweak test profiles f
 Modifications to test profiles are stored in branches, where each branch usually contains modifications for a single test case. Documentation about the changes made can be found in commit messages for a particular branch, pull request descriptions and/or in the _branch index_—below.
 
 ## Branch index
-TODO…
+Note that branch names that are stricken—i.e., have a horizontal line on top of the text—have been _deleted_ from this repository.
+
+1. [`fix_csgo-1.7.2_win`](https://github.com/tad4/pts-test-profiles/tree/fix_csgo-1.7.2_win)
+    - Submitted upstream: [Fix for csgo (1.7.2) runtime error on Windows clients](https://github.com/phoronix-test-suite/test-profiles/pull/264)
+2. [`quake2rtx-win-change-resolution`](https://github.com/tad4/pts-test-profiles/tree/quake2rtx-win-change-resolution)
+    - TODO: Use Windows API to change system resolution in pre- and post-test scripts.
+3. ~~`influxdb-add-Linux_AArch64`~~
+    - Pulled into upstream test profile: [InfluxDB: Add support for AArch64 testing on Linux](https://github.com/phoronix-test-suite/test-profiles/pull/276)
+4. ~~`add-missing-srsran_2x-dep`~~
+    - Pulled into upstream test profile: [`srsran-2.x`: Add new deps introduced in srsRAN release 23.3](https://github.com/phoronix-test-suite/test-profiles/pull/278)
+5. [`fix-hpcc-builds4aarch64`](https://github.com/tad4/pts-test-profiles/tree/fix-hpcc-builds4aarch64)
+    - Submitted upstream: [`hpcc`: Improve multi-arch installation](https://github.com/phoronix-test-suite/test-profiles/pull/279)
+6. `apply-upstream-repo-name-changes2srsran_1x`
+    - Submitted upstream: [`srsran-1.x`: Apply upstream repo name change](https://github.com/phoronix-test-suite/test-profiles/pull/280)
 
 # Disclaimers
 **tl;dr**:
