@@ -32,6 +32,8 @@ Note that branch names that are stricken—i.e., have a horizontal line on top o
     - Submitted upstream: [`srsran-1.x`: Apply upstream repo name change](https://github.com/phoronix-test-suite/test-profiles/pull/280)
 7. ~~`rabbitmq_fix-missing-deps`~~
     - Pulled into upstream test profile: [`rabbitmq`: Add Erlang dependencies for RabbitMQ server](https://github.com/phoronix-test-suite/test-profiles/pull/296)
+8. [`y-cruncher_1.3.0-update-DL-URI`](https://github.com/tad4/pts-test-profiles/tree/y-cruncher_1.3.0-update-DL-URI)
+    - Submitted upstream: [Update y-cruncher download URI to match upstream changes at NumberWorld.org](https://github.com/phoronix-test-suite/test-profiles/pull/300) 
 
 # Disclaimers
 **tl;dr**:
