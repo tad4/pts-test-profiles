@@ -30,8 +30,8 @@ Note that branch names that are stricken—i.e., have a horizontal line on top o
     - Submitted upstream: [`hpcc`: Improve multi-arch installation](https://github.com/phoronix-test-suite/test-profiles/pull/279)
 6. [`apply-upstream-repo-name-changes2srsran_1x`](https://github.com/tad4/pts-test-profiles/tree/apply-upstream-repo-name-changes2srsran_1x)
     - Submitted upstream: [`srsran-1.x`: Apply upstream repo name change](https://github.com/phoronix-test-suite/test-profiles/pull/280)
-7. [`rabbitmq_fix-missing-deps`](https://github.com/tad4/pts-test-profiles/tree/rabbitmq_fix-missing-deps)
-    - Submitted upstream: [`rabbitmq`: Add Erlang dependencies for RabbitMQ server](https://github.com/phoronix-test-suite/test-profiles/pull/296)
+7. ~~`rabbitmq_fix-missing-deps`~~
+    - Pulled into upstream test profile: [`rabbitmq`: Add Erlang dependencies for RabbitMQ server](https://github.com/phoronix-test-suite/test-profiles/pull/296)
 
 # Disclaimers
 **tl;dr**:
