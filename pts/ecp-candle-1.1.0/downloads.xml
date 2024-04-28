@@ -24,21 +24,21 @@
       <FileSize>169631113</FileSize>
     </Package>
     <Package>
-      <URL>ftp://ftp.mcs.anl.gov/pub/candle/public/benchmarks/Pilot2/3k_run10_10us.35fs-DPPC.10-DOPC.70-CHOL.20.dir.tar.gz</URL>
+      <URL>https://ftp.mcs.anl.gov/pub/candle/public/benchmarks/Pilot2/3k_run10_10us.35fs-DPPC.10-DOPC.70-CHOL.20.dir.tar.gz</URL>
       <MD5>ece75b704ec63ac9c39afd74b63497dc</MD5>
       <SHA256>1321b53b8944d95eeee91b52438c6f4423667dcb5b2715b517fc6a9ac2834362</SHA256>
       <FileName>3k_run10_10us.35fs-DPPC.10-DOPC.70-CHOL.20.dir.tar.gz</FileName>
       <FileSize>3088534718</FileSize>
     </Package>
     <Package>
-      <URL>ftp://ftp.mcs.anl.gov/pub/candle/public/benchmarks/P3B1/P3B1_data.tar.gz</URL>
+      <URL>https://ftp.mcs.anl.gov/pub/candle/public/benchmarks/P3B1/P3B1_data.tar.gz</URL>
       <MD5>d0ba862c83f07d45a099292536b53cbb</MD5>
       <SHA256>c89c9d3aa0f74d19c099f94c16729693a207480de71e10c90a7341523127dbcd</SHA256>
       <FileName>P3B1_data.tar.gz</FileName>
       <FileSize>108587183</FileSize>
     </Package>
     <Package>
-      <URL>http://ftp.mcs.anl.gov/pub/candle/public/benchmarks/P3B2/P3B2_data.tgz</URL>
+      <URL>https://ftp.mcs.anl.gov/pub/candle/public/benchmarks/P3B2/P3B2_data.tgz</URL>
       <MD5>1d4a3d6177529ac853194f9c0d3f655e</MD5>
       <SHA256>e0106cc9eca9d55f4e17a302f4e7d1f6b6845b5113d0ee38f6419d4f94ab64cd</SHA256>
       <FileName>P3B2_data.tgz</FileName>
