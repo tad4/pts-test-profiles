@@ -13,7 +13,7 @@ tar -xf 3k_run10_10us.35fs-DPPC.10-DOPC.70-CHOL.20.dir.tar.gz
 cd ~/Benchmarks-0.4/Data/Pilot3
 tar -xf P3B1_data.tar.gz
 tar -xf P3B2_data.tgz
-pip3 install --user torch numpy tqdm keras tensorflow scikit-learn pandas matplotlib numba astropy patsy statsmodels
+pip3 install --user torch numpy tqdm "keras<3.0" tensorflow scikit-learn pandas matplotlib numba astropy patsy statsmodels
 echo $? > ~/install-exit-status
 
 cd ~
