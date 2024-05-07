@@ -21,19 +21,19 @@
       <Optional>TRUE</Optional>
     </Package>
     <Package>
-      <URL>https://github.com/onnx/models/blob/4c46cd00fbdb7cd30b6c1c17ab54f2e1f4f7b177/validated/text/machine_comprehension/bert-squad/model/bertsquad-12.tar.gz</URL>
+      <URL>https://github.com/onnx/models/raw/4c46cd00fbdb7cd30b6c1c17ab54f2e1f4f7b177/validated/text/machine_comprehension/bert-squad/model/bertsquad-12.tar.gz</URL>
       <FileName>bertsquad-12.tar.gz</FileName>
       <FileSize>403082198</FileSize>
       <Optional>TRUE</Optional>
     </Package>
     <Package>
-      <URL>https://github.com/onnx/models/blob/4c46cd00fbdb7cd30b6c1c17ab54f2e1f4f7b177/validated/text/machine_comprehension/gpt-2/model/gpt2-10.tar.gz</URL>
+      <URL>https://github.com/onnx/models/raw/4c46cd00fbdb7cd30b6c1c17ab54f2e1f4f7b177/validated/text/machine_comprehension/gpt-2/model/gpt2-10.tar.gz</URL>
       <FileName>gpt2-10.tar.gz</FileName>
       <FileSize>463131530</FileSize>
       <Optional>TRUE</Optional>
     </Package>
     <Package>
-      <URL>https://github.com/onnx/models/blob/4c46cd00fbdb7cd30b6c1c17ab54f2e1f4f7b177/validated/vision/body_analysis/arcface/model/arcfaceresnet100-8.tar.gz</URL>
+      <URL>https://github.com/onnx/models/raw/4c46cd00fbdb7cd30b6c1c17ab54f2e1f4f7b177/validated/vision/body_analysis/arcface/model/arcfaceresnet100-8.tar.gz</URL>
       <FileName>arcfaceresnet100-8.tar.gz</FileName>
       <FileSize>237564370</FileSize>
       <Optional>TRUE</Optional>
@@ -51,7 +51,7 @@
       <Optional>TRUE</Optional>
     </Package>
     <Package>
-      <URL>https://github.com/onnx/models/blob/4c46cd00fbdb7cd30b6c1c17ab54f2e1f4f7b177/validated/vision/object_detection_segmentation/faster-rcnn/model/FasterRCNN-12-int8.tar.gz</URL>
+      <URL>https://github.com/onnx/models/raw/4c46cd00fbdb7cd30b6c1c17ab54f2e1f4f7b177/validated/vision/object_detection_segmentation/faster-rcnn/model/FasterRCNN-12-int8.tar.gz</URL>
       <FileName>FasterRCNN-12-int8.tar.gz</FileName>
       <FileSize>38019008</FileSize>
       <Optional>TRUE</Optional>
